@@ -2,7 +2,7 @@
 
 ### What I learned:
 
-Fetching API data, working with object instances and methods of classes, organizing code into separate files. Wrapping everything in a UI. This got me confused couple of times, but I managed to work my way though this ✔
+Fetching API data, working with object instances and methods of classes, organizing code into separate files. Wrapping everything in a UI. This got me confused couple of times, but I managed to work my way through this ✔
 
 <!-- ![grab-landing-page](https://github.com/skaftisveins/Python-Tkinter-Password-Manager-Day-29/blob/master/demo.gif) -->
 
